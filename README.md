@@ -4,7 +4,7 @@
 
 ### Listado seleccionado por **[CusanoTech](https://linktr.ee/cusanotech)** de herramientas que utilizan inteligencia artificial.<br>
 
-**Con este PDF tendras a un solo click las herramientas que desees. Podras crear, automatizar o editar, videos, audios, podcast, logos, textos, documentos excel, correos electronicos, y muchisimas cosas mas.**
+**Con este PDF tendrás a un solo clic las herramientas que desees. Podrás crear, automatizar o editar, videos, audios, pódcast, logos, textos, documentos Excel, correos electrónicos, y muchísimas cosas más.**
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ## Herramientas
 
-**Lee con atencion su descripcion. (Algunas son gratuitas, otras son pagas).**
+**Lee con atención su descripción. (Algunas son gratuitas, otras son pagas).**
 - [**ChatGPT**](https://chat.openai.com/): <br>
   **Chatbot generativo de texto** en respuesta a un prompt (intruccion en texto).
   
@@ -259,17 +259,17 @@
   
 <br>
 
-### ¿Faltan nueve herramientas verdad?
+### ¿Faltan nueve herramientas, verdad?
 
-#### **Te reto** a buscar las 9 faltantes. Puedes enviarmelas por cualquiera de [Mis Redes](https://linktr.ee/cusanotech)
+#### **Te reto** a buscar las 9 faltantes. Puedes enviármelas por cualquiera de [Mis Redes](https://linktr.ee/cusanotech)
 
 ---
 
 ## <img src="./images/Logotipo-Trasparente.png" alt="Logotipo Cusanotech" width="35" height="35"/> SOY CUSANOTECH <img src="./images/Logotipo-Trasparente.png" alt="Logotipo Cusanotech" width="35" height="35"/>
 
-Me considero un desarrollador python, autodidacta y apasionado por la Tecnologia. Mis intereses no dejan por el momento tener una especialidad. Pero lo que si sabemos es que **"Lo que CusanoTech aprende, tu tambien lo aprendes"**.😃 
+Me considero un desarrollador Python, autodidacta y apasionado por la Tecnología. Mis intereses no dejan por el momento tener una especialidad. Pero lo que si sabemos es que **“Lo que CusanoTech aprende, tú también lo aprendes”**.😃 
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
-### En mi perfil tienes todos mis enlaces y mas contenido creados para ti. <br>
+### En mi perfil tienes todos mis enlaces y más contenido creado para ti.. <br>
 [![Web](https://img.shields.io/badge/GitHub-CusanoTech-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/cusanotech)
