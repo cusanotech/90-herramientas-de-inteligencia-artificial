@@ -4,7 +4,7 @@
 
 ### Listado seleccionado por **[CusanoTech](https://linktr.ee/cusanotech)** de herramientas que utilizan inteligencia artificial.<br>
 
-**Con este PDF tendrás a un solo clic las herramientas que desees. Podrás crear, automatizar o editar, videos, audios, pódcast, logos, textos, documentos Excel, correos electrónicos, y muchísimas cosas más.**
+**En este README tendrás a un solo clic las herramientas que desees. Podrás crear, automatizar o editar, videos, audios, pódcast, logos, textos, documentos Excel, correos electrónicos, y muchísimas cosas más.**
 
 <br>
 
