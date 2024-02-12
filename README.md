@@ -1,6 +1,6 @@
 ![CusanoTech 90 herramientas con inteligencia artificial](./images/Header-90-herramientas.png)
 
-#  <h1 align="center"> <img src="./images/Logotipo-Trasparente.png" alt="Logotipo Cusanotech" width="35" height="35"/> 90 Herramientas de Inteligencia Artificial <img src="./images/Logotipo-Trasparente.png" alt="Logotipo Cusanotech" width="35" height="35"/>
+#  <h1 align="center"> 90 Herramientas de Inteligencia Artificial 
 
 ### Listado seleccionado por **[CusanoTech](https://linktr.ee/cusanotech)** de herramientas que utilizan inteligencia artificial.<br>
 
