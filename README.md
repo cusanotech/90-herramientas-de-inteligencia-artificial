@@ -257,7 +257,7 @@
 
 
 ---
-## Soy Federico Cusano Fundador de Cusanotech™. Mi objetivo es transformar a emprededores convensionales en emprendedores que sepan apalancarse de la IA y a disfrutar mas la vida. 😄
+## Soy Federico Cusano Fundador de Cusanotech™. Mi objetivo es transformar a emprededores convensionales en emprendedores que sepan apalancarse de la IA y a disfrutar mas la vida.
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
