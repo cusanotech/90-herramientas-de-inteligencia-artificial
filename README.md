@@ -254,15 +254,10 @@
   
 <br>
 
-### ¿Faltan nueve herramientas, verdad?
 
-#### **Te reto** a buscar las 9 faltantes. Puedes enviármelas por cualquiera de [Mis Redes](https://linktr.ee/cusanotech)
 
 ---
-
-## <img src="./images/Logotipo-Trasparente.png" alt="Logotipo Cusanotech" width="35" height="35"/> SOY CUSANOTECH <img src="./images/Logotipo-Trasparente.png" alt="Logotipo Cusanotech" width="35" height="35"/>
-
-Me considero un desarrollador Python, autodidacta y apasionado por la Tecnología. Mis intereses no dejan por el momento tener una especialidad. Pero lo que si sabemos es que **“Lo que CusanoTech aprende, tú también lo aprendes”**.😃 
+## Soy Federico Cusano Fundador de Cusanotech™. Mi objetivo es transformar a emprededores convensionales en emprendedores que sepan apalancarse de la IA y a disfrutar mas la vida. 😄
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
