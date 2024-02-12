@@ -21,20 +21,20 @@
 - [**Chat Bing**](https://www.bing.com/new): <br>
   **Chatbot generativo de texto** en respuesta a una entrada dada. Utiliza GPT-4.
   
-- [**DALL-E 2**](https://www.bing.com/new):<br>
+- [**DALL-E 2**](https://labs.openai.com/):<br>
   **Crea imágenes y arte** a partir de una entrada de texto. 
   
 - [**Midjourney**](https://www.midjourney.com/):<br>
-  **Similar a DALL-E** pero con un enfoque más artístico. 
+  **Tambien crea imagenes ultrarealistas, es hoy en dia la herramientas N1.
 
 - [**Stable Difussion**](https://stability.ai/):<br>
-  Otra IA **similar a DALL-E 2 y Midjourney.**
+  Otra IA **similar a DALL-E 2**
   
 - [**Copy AI**](https://www.copy.ai/):<br>
   **Crea textos con copywriting** (texto persuasivo con fines publicitarios). 
   
 - [**NOTION AI**](https://www.notion.so/product/ai):<br>
-  Función que te **ermite crear flujos de trabajo automatizados** dentro de Notion. 
+  Función que te **permite crear flujos de trabajo automatizados** dentro de Notion. 
   
 - [**Web Copilot**](https://www.webcopilot.co/):<br>
   **Asistente de escritura** para Notion.
@@ -226,33 +226,28 @@
   **Cree y comparta facilmente cuestionarios**, tarjetas didacticas y notas. Ideal para educadores, profesores y formacion corporativa.
 
 - [**Endel**](https://endel.io/): <br>
-  **Paisajes sonoros personalizados** para ayudarte a concentrarte, relajarte y dormir respaldado por la neurociencia.
-
+  **Paisajes sonoros personalizados** para ayudarte a concentrarte, relajarte y dormir respaldado por la neurociencia.  
 
 - [**PolitePOST**](https://rationale.jina.ai/):<br>
-  Mejora y **reescribe** tus correos electronicos.
-
+  Mejora y **reescribe** tus correos electronicos.  
 
 - [**AudioStrip**](https://www.audiostrip.co.uk/): <br>
-  Ideal **para DJs**. Aislamiento instrumental y vocal, separa la voz de la musica. 
+  Ideal **para DJs**. Aislamiento instrumental y vocal, separa la voz de la musica.  
 
 - [**Huberman IA**](https://huberman.rile.yt/): <br>
-  **Hable con Andrew Huberman**, un Neurocientífico, psiquiatra y experto en sistema de comportamiento.
+  **Hable con Andrew Huberman**, un Neurocientífico, psiquiatra y experto en sistema de comportamiento.  
 
-- [**Vana Portrait**](https://slashdreamer.com/):<br>
-  **Crea autoretratos** tuyos en infinios estilos.
+- [**Slashdreamer**](https://slashdreamer.com/): <br>
+  **Notion + Stable Difussion**. Crea imagenes y las usas para tu Notion.  
 
-- [**Slashdreamer**](https://www.igniter.ai/): <br>
-  **Notion + Stable Difussion**. Crea imagenes y las usas para tu Notion.
+- [**Igniter AI**](https://igniter.ai): <br>
+  Es un **boletin de IA**, es decir, almacena muchisimas herramientas de inteligencia artificial.  
 
-- [**Igniter AI**](https://www.futurepedia.io/): <br>
-  Es un **boletin de IA**, es decir, almacena muchisimas herramientas de inteligencia artificial.
-
-- [**Futurepedia**](): <br>
-  Directorio de clasificacion de **herramientas de IA** muy completo. Le dicen la Wikipedia de IA.
+- [**Futurepedia**](https://www.futurepedia.io/): <br>
+  Directorio de clasificacion de **herramientas de IA** muy completo. Le dicen la Wikipedia de IA.  
 
 - [**Learnprompting**](https://learnprompting.org/): <br>
-  Te brinda **cursos gratuitos** para saber comunicarte con inteligencia artificial. (Prompt Engineering)
+  Te brinda **cursos gratuitos** para saber comunicarte con inteligencia artificial. (Prompt Engineering)  
 
 - [**Besty AI**](https://besty.ai/#home): <br>
   Un chatbot para tu **WhatsApp**.
