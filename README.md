@@ -123,6 +123,9 @@
 - [**Quillbot**](https://quillbot.com/):<br>
   **Ayuda a reescribir tu texto**, mejora la gramática, ortografía y puntuación.
 
+- [**HumanPen**](https://humanpen.net/):<br>
+  **Reescribe y traduce documentos**, con opción de usar un informe de Turnitin o iThenticate para identificar fragmentos; funciona con créditos y ofrece 100 gratis al registrarse.
+
 - [**Copysmith**](https://copysmith.ai/):<br>
   **Te crea las mejores descripciones** para tus productos.
 
